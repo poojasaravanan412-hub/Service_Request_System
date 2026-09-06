@@ -84,3 +84,17 @@ The project includes the following SQL reports:
 ## Project Outcome
 
 This project demonstrates practical knowledge of Python, MySQL, SQL queries, relational database management, database testing, data validation, and SQL reporting.
+
+## Project Screenshots
+
+### 1. Main Menu & MySQL Connection
+![Main Menu](service-request-system.png)
+
+### 2. View All Requests
+![View All Requests](view-all-requests.png)
+
+### 3. Search Request
+![Search Request](search-request.png)
+
+### 4. Pending Requests
+![Pending Requests](pending-requests.png)
