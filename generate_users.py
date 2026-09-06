@@ -4,7 +4,7 @@ connection = mysql.connector.connect(
     host="localhost",
     port=3307,
     user="root",
-    password="root",
+    password=os.getenv("MYSQL_PASSWORD"),
     database="service_request_db"
 )
 
