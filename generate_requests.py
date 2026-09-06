@@ -1,6 +1,8 @@
+import os
 import mysql.connector
 from datetime import date, timedelta
 import random
+
 
 connection = mysql.connector.connect(
     host="localhost",
