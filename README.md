@@ -98,3 +98,6 @@ This project demonstrates practical knowledge of Python, MySQL, SQL queries, rel
 
 ### 4. Pending Requests
 ![Pending Requests](pending-requests.png)
+
+### 5. MySQL Database & SQL Report
+![MySQL Database and SQL Report](mysql-sql-report.png)
